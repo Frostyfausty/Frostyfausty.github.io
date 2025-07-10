@@ -1,0 +1,17 @@
+{
+  "hash": "b7dd89ac3a968d6faac7cf4aa8ddf122",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Covid Vaccine Delieries\"\ndate: \"June 2025\"\nresources: \".\"\nabout: \n  template: solana\n  image: california-counties-map-with-cities.jpg\n  links: \n    - icon: github\n      text: \"Github\"\n      href: \"https://github.com/liv426kim/EDA_COVID_Vax.git\"\n    - icon: easel\n      text: \"Slides\"\n      href: \"https://docs.google.com/presentation/d/1cF7XaAD7wFIbbZJCLsyBthlg6e0TBr9GTeJ66G95Ny0/edit\"\n      \n---\n\n\n\nThis is my EDA PRoject in collaboration with Olivia and Arturo. The purpose is to visualize the corralation in deliveries within counties in California\n\nSome info:\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nhist(rnorm(100))\n```\n\n::: {.cell-output-display}\n![](EDA_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::",
+    "supporting": [
+      "EDA_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

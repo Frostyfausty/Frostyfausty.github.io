@@ -1,0 +1,9 @@
+---
+title: "Projects"
+listing: 
+  contents: Projects #name of folder (has to be exact)
+  type: grid
+  sort:
+    - "date desc"
+---
+

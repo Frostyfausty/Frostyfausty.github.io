@@ -1,0 +1,38 @@
+project:
+  type: website
+  resources: assets
+
+website:
+  title: "Jordan Faustin"
+  navbar:
+    background: "#003A63"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jordan-faustin/
+        target: blank
+      - icon: cash
+        href: https://venmo.com/
+        target: blank
+      - icon: github
+        href: https://github.com/
+        target: blank
+      - icon: file-pdf
+        href: assets/Resume.pdf
+        target: blank
+        
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+

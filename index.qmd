@@ -1,0 +1,15 @@
+---
+title: "Jordan Faustin"
+about:
+  template: jolla
+  image: assets/pink.jpg
+  links:
+    - icon: envelope-fill
+      text: Email
+      href: mailto:faustinjordan@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Welcome to my website! I am a final year undergraduate student at Howard University, currently majoring in Mathematics with a concentration in Actuarial Sciences. I have an interest in personal em-betterment whether physical, intellectual, or spiritual.
