@@ -28,7 +28,7 @@ Some info:
 ```{r}
 
 #| echo: false
-#library(tidyverse)
+library(tidyverse)
 covid_cases_deaths <- read_csv("https://raw.githubusercontent.com/36-SURE/2025/main/data/covid_california.csv")
 
 ccd <- covid_cases_deaths
