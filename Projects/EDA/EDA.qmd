@@ -1,6 +1,6 @@
 ---
-title: "Covid Vaccine Deliveries"
-description: "CMU EDA PROJECT"
+title: "CMU EDA Project"
+description: "Covid Vaccine Deliveries Within California"
 date: "June 2025"
 resources: "."
 about: 
