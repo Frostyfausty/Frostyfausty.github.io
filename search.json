@@ -4,7 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Adult Obesity\n\n\nCMU Capstone PROJECT\n\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCovid Vaccine Delieries\n\n\nCMU EDA PROJECT\n\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Adult Obesity\n\n\nCMU Capstone PROJECT\n\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nCovid Vaccine Deliveries\n\n\nCMU EDA PROJECT\n\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Projects/EDA/EDA.html",
+    "href": "Projects/EDA/EDA.html",
+    "title": "Covid Vaccine Deliveries",
+    "section": "",
+    "text": "This is my EDA Project in collaboration with Olivia and Arturo. The purpose is to visualize the corralation in deliveries within counties in California\nSome info:\n\nhist(rnorm(100))"
   },
   {
     "objectID": "index.html",
@@ -12,12 +19,5 @@
     "title": "Jordan Faustin",
     "section": "",
     "text": "Welcome to my website! I am a final year undergraduate student at Howard University, currently majoring in Mathematics with a concentration in Actuarial Sciences. I have an interest in personal em-betterment whether physical, intellectual, or spiritual."
-  },
-  {
-    "objectID": "Projects/EDA/EDA.html",
-    "href": "Projects/EDA/EDA.html",
-    "title": "Covid Vaccine Delieries",
-    "section": "",
-    "text": "This is my EDA PRoject in collaboration with Olivia and Arturo. The purpose is to visualize the corralation in deliveries within counties in California\nSome info:\n\nhist(rnorm(100))"
   }
 ]

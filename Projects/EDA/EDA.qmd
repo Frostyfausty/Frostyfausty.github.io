@@ -1,5 +1,5 @@
 ---
-title: "Covid Vaccine Delieries"
+title: "Covid Vaccine Deliveries"
 description: "CMU EDA PROJECT"
 date: "June 2025"
 resources: "."
@@ -16,7 +16,7 @@ about:
       
 ---
 
-This is my EDA PRoject in collaboration with Olivia and Arturo. The purpose is to visualize the corralation in deliveries within counties in California
+This is my EDA Project in collaboration with Olivia and Arturo. The purpose is to visualize the corralation in deliveries within counties in California
 
 Some info:
 
