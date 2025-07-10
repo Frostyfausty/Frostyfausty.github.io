@@ -1,0 +1,20 @@
+---
+title: "Adult Obesity"
+description: "CMU Capstone PROJECT"
+date: "July 2025"
+resources: "."
+about: 
+  template: solana
+  image: cover.jpg
+  links: 
+    - icon: github
+      text: "Github"
+      href: "https://github.com/liv426kim/EDA_COVID_Vax.git"
+    - icon: easel
+      text: "Slides"
+      href: "https://docs.google.com/presentation/d/1cF7XaAD7wFIbbZJCLsyBthlg6e0TBr9GTeJ66G95Ny0/edit"
+    - icon: file-code
+      text: "Report"
+      href: "https://theonion.com/"
+      
+---
