@@ -25,23 +25,13 @@ We built an analysis on the shipment and delivery of COVID-19 Vaccinations in co
 
 Some info:
 
-```{r}
-
-#| echo: FALSE
+```{r, echo=FALSE}
 
 library(tidyverse)
 covid_cases_deaths <- read_csv("https://raw.githubusercontent.com/36-SURE/2025/main/data/covid_california.csv")
 
 ccd <- covid_cases_deaths
 ccd_prop <- ccd
-
-#summarize(ccd)
-#summary(ccd)
-
-#names(ccd)
-#dim(ccd)
-
-#library(tidyverse)
 
 # Assuming 'ccd' is your dataset containing vaccine shipment data
 ccd_prop <- ccd |>
