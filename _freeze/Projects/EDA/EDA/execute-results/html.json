@@ -1,8 +1,8 @@
 {
-  "hash": "f24767c88eedc2eafc10246e118018e4",
+  "hash": "c37279ed01d9a934dcc723840f53d41d",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Covid Vaccine Deliveries\"\ndescription: \"CMU EDA PROJECT\"\ndate: \"June 2025\"\nresources: \".\"\nabout: \n  template: solana\n  image: cover.jpg\n  links: \n    - icon: github\n      text: \"Github\"\n      href: \"https://github.com/liv426kim/EDA_COVID_Vax.git\"\n    - icon: easel\n      text: \"Slides\"\n      href: \"https://docs.google.com/presentation/d/1cF7XaAD7wFIbbZJCLsyBthlg6e0TBr9GTeJ66G95Ny0/edit\"\n      \n---\n\n\n\nThis is my EDA PRoject in collaboration with Olivia and Arturo. The purpose is to visualize the corralation in deliveries within counties in California\n\nSome info:\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nhist(rnorm(100))\n```\n\n::: {.cell-output-display}\n![](EDA_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::",
+    "markdown": "---\ntitle: \"Covid Vaccine Deliveries\"\ndescription: \"CMU EDA PROJECT\"\ndate: \"June 2025\"\nresources: \".\"\nabout: \n  template: solana\n  image: cover.jpg\n  links: \n    - icon: github\n      text: \"Github\"\n      href: \"https://github.com/liv426kim/EDA_COVID_Vax.git\"\n    - icon: easel\n      text: \"Slides\"\n      href: \"https://docs.google.com/presentation/d/1cF7XaAD7wFIbbZJCLsyBthlg6e0TBr9GTeJ66G95Ny0/edit\"\n      \n---\n\n\n\nThis is my EDA Project in collaboration with Olivia and Arturo. The purpose is to visualize the corralation in deliveries within counties in California\n\nSome info:\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nhist(rnorm(100))\n```\n\n::: {.cell-output-display}\n![](EDA_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::",
     "supporting": [
       "EDA_files"
     ],
