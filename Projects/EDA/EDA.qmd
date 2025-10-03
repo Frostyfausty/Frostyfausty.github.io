@@ -20,7 +20,7 @@ about:
       
 ---
 
-This is my EDA Project completed during my REU at Carnegie Mellon University. This was collaboration project with Olivia Kim and Arturo Espana. An Exploratory Data Analysis (EDA) project involves systematically examining a dataset to understand its main characteristics, identify patterns, and potentially uncover insights before formal analysis or modeling. 
+This is an EDA Project completed during the REU at Carnegie Mellon University. This was collaboration project with Olivia Kim and Arturo Espana. An Exploratory Data Analysis (EDA) project involves systematically examining a dataset to understand its main characteristics, identify patterns, and potentially uncover insights before formal analysis or modeling. 
 We built an analysis on the shipment and delivery of COVID-19 Vaccinations in counties throughout California
 
 Some info:
@@ -80,6 +80,8 @@ ggplot(ccd_prop, aes(x = fct_rev(factor(county)), y = proportion, fill = vaccine
                                "moderna" = "firebrick", 
                                "jj" = "#FF9999"))
 ```
+Through this visualization we can understand that Moderna and Pfizer were distributed throughout counties within California at a higher rate in comparison to Johnson & Johnson (JJ). This is a result of several factor such as storage requirement and well as CDC approval dates.
+
 ```{r, results=FALSE, warning=FALSE, echo=FALSE, message=FALSE, fig.width=10, fig.height=10}
 library(tidyverse)
 library(lubridate)
@@ -182,3 +184,4 @@ brand_delivery_summary <- brand_delivery_rates |>
 
 print(brand_delivery_summary)
 ```
+Within this chart we can see the frequency of delivery rates between such vaccines. The significance of this visualization allows us to understand that consistency of each vaccine's delivery.

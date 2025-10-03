@@ -7,17 +7,24 @@
     "text": "Adult Obesity\n\n\nCMU Capstone PROJECT\n\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nCMU EDA Project\n\n\nCovid Vaccine Deliveries Within California\n\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "Projects/EDA/EDA.html",
-    "href": "Projects/EDA/EDA.html",
-    "title": "CMU EDA Project",
+    "objectID": "cases.html",
+    "href": "cases.html",
+    "title": "Case Reviews",
     "section": "",
-    "text": "This is my EDA Project completed during my REU at Carnegie Mellon University. This was collaboration project with Olivia Kim and Arturo Espana. An Exploratory Data Analysis (EDA) project involves systematically examining a dataset to understand its main characteristics, identify patterns, and potentially uncover insights before formal analysis or modeling. We built an analysis on the shipment and delivery of COVID-19 Vaccinations in counties throughout California\nSome info:"
+    "text": "No matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jordan Faustin",
     "section": "",
-    "text": "Welcome to my website! I am a final year undergraduate student at Howard University, currently majoring in Mathematics with a concentration in Actuarial Sciences. I have an interest in personal em-betterment whether physical, intellectual, or spiritual."
+    "text": "I am an undergraduate student at Howard University, majoring in Applied Mathematics with a concentration in Actuarial Science. As a natural problem-solver, I am passionate about using my understanding of data and analytical skills in programming, large-scale data wrangling, and Medicare/Medicaid brokering to understand how systems work and find ways to improve them. I am deeply committed to my continuous growth, both professionally and personally."
+  },
+  {
+    "objectID": "Projects/EDA/EDA.html",
+    "href": "Projects/EDA/EDA.html",
+    "title": "CMU EDA Project",
+    "section": "",
+    "text": "This is an EDA Project completed during the REU at Carnegie Mellon University. This was collaboration project with Olivia Kim and Arturo Espana. An Exploratory Data Analysis (EDA) project involves systematically examining a dataset to understand its main characteristics, identify patterns, and potentially uncover insights before formal analysis or modeling. We built an analysis on the shipment and delivery of COVID-19 Vaccinations in counties throughout California\nSome info:\n\n\n\n\n\n\n\n\n\nThis depicts the distribution of each vaccine per county\n\n\n\n\n\n\n\n\n\nThis depicts the frequency of delivery for each vaccine"
   }
 ]
