@@ -4,14 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Adult Obesity\n\n\nCMU Capstone PROJECT\n\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCMU EDA Project\n\n\nCovid Vaccine Deliveries Within California\n\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jordan Faustin",
-    "section": "",
-    "text": "Welcome to my website! I am a final year undergraduate student at Howard University, currently majoring in Mathematics with a concentration in Actuarial Sciences. I have an interest in personal em-betterment whether physical, intellectual, or spiritual."
+    "text": "Adult Obesity\n\n\nCMU Capstone PROJECT\n\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nCMU EDA Project\n\n\nCovid Vaccine Deliveries Within California\n\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Projects/EDA/EDA.html",
@@ -19,5 +12,12 @@
     "title": "CMU EDA Project",
     "section": "",
     "text": "This is my EDA Project completed during my REU at Carnegie Mellon University. This was collaboration project with Olivia Kim and Arturo Espana. An Exploratory Data Analysis (EDA) project involves systematically examining a dataset to understand its main characteristics, identify patterns, and potentially uncover insights before formal analysis or modeling. We built an analysis on the shipment and delivery of COVID-19 Vaccinations in counties throughout California\nSome info:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jordan Faustin",
+    "section": "",
+    "text": "Welcome to my website! I am a final year undergraduate student at Howard University, currently majoring in Mathematics with a concentration in Actuarial Sciences. I have an interest in personal em-betterment whether physical, intellectual, or spiritual."
   }
 ]
