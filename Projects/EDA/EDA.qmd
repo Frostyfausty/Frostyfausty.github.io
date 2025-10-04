@@ -6,7 +6,7 @@ resources: "."
 about: 
   template: trestles
   image-shape: rounded
-  image: cover.jpg
+  image: cover.png
   links: 
     - icon: github
       text: "Github"
